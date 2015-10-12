@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="provincias">
+        <item>A Coruña</item>
+        <item>Lugo</item>
+        <item>Pontevedra</item>
+        <item>Ourense</item>
+        <item>León</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Configuración</string>
+    <string name="text_clear"> Limpar</string>
+    <string name="text_button"> Engadir / Limpar</string>
+    <string name="text_label"> Aquí é onde verás o texto que escribes</string>
+    <string name="text_hint"> Escribe algún texto e preme o botón</string>
+    <string name="text_red"> Vermello</string>
+    <string name="text_blue"> Azul</string>
+    <string name="text_start"> Iniciar</string>
+    <string name="text_stop"> Parar</string>
+    <string name="text_image"> Torre de San Sadurniño - Cambados</string>
+    <string name="text_toast_gal"> Seleccionaches unha provincia galega</string>
+    <string name="text_toast_no_gal"> Non seleccionaches unha provincia galega</string>
+
+</resources>
